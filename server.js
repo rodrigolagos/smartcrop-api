@@ -10,6 +10,10 @@ app.get('/', function(req, res) {
 	res.send('welcome to the home page!');
 });
 
+app.get('*', function(req, res) {
+  res.redirect('/');
+});
+
 var routes = require('./api/routes/apiRoutes');
 routes(app);
 
