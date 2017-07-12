@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartcrop-api",
+  "private_key_id": "512fcdde546c015eb3b3acb849eed9a362e0d143",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCV/HuDJ69MRm2C\nNl8Iy0pZ1s99td0CcUVSxJD+r5DXZwNajb9/W4IoGarq75Ff2z1yBCnh+/xVFacP\ndDCfudkvukry7uiywCMr8wmZ5XzQAy7Q2g4zK+eIR0wutnJfS8CfCBXJ4FSIf7ho\n5tg7McbG8YKT2FG2A15cR1cqSEfhUnSxBbU0Rp/C6XSXPlmDHSRmapkPMTZ0+nJx\nyBa05kSo79JMSohdIJz4bCYlhsn2Y+iwTp/82kGFUNLlhkx6IB7lmOyDbzE/y6IC\nDtt2SKa47pQPVGrRdBv6+ZSo9dEc0zBQTUQDwOG9omTTN1AdjR9Q1Cpah+Tvks15\nfV80vrB3AgMBAAECggEABXjpGeMVEfw6H8VBOLCiH9WUlQp169t2tXjyiVznEEKY\nfrq901m+hIrkWLDn04WC1vweMMxO2W9NqolAJzPAaSSHMT1UjU7DnlMsB10j2zsQ\nNoBCy8zhbXBTXdIXcsM5pxPEJ79zTPsVHxfYhGmGhSH6GM/6RGDzqCCMgeT/hdHg\nn4NIKIIfOUsDvDr22cdEGmRNKF46ukAXINU2ZWzTFP/Uo7rEwPhmgXL2N9Q40+HD\neJmBJ/SSuv4OGeIVqw9bpwL9NsRoIMBf3yIfxMqEmIzmx6Raw2G97RTunHr/mr4R\nXim8VNtGZprT+RePkTpiH/RWwfAwhHOJkkAkPY1AoQKBgQDE9I2q0pwguXwcA2GN\nI9DSI9sR96PBGo8vuOoTIkptGOEA2WuuF/aG4fslOUzsegh5UBsE0oTNJhzF7uDa\n/eURrXN5FzEtdNvjO+59EM5alNiKLlTaWRj67diBPp3cgKvdJgirgUNSg5Ny/rWX\nykBh0d29egAKCiHheK00BJFy6QKBgQDC80OdkWqIVl0dj3GmwowU54PMlHPExbL3\nfxvylrMJEyBK52LyGK/JO8GE5CJNbkDkTz4X/vzLkRI5clQf18QDsnbqgGkUhfcs\nPmc1Tx30FT42a2ovYMdlkwxO4d3GDPCmfuGtzCkXPRurRQhdHbaGfcAlLVxeqqSd\ncUoTJb0sXwKBgQCwU8U1JuLSRV1AcyJ1ypfcWm95kXxQmGeSsPkW8j8xlvFx4jUO\nIrP6I/zFYZxlpgdKHJZj5dkxFSrzZZ53UJExF1lnEoVbjeCCephT7aTg4ZtPcpVS\n+itsE14er6GC1MuI7NEcQli0Wcm7TR/kahTjvpDHXp8EXffhNTnTdTeGaQKBgH9c\n7o/CsRbhVXQ6gsWv1FTT7Ad79SZZAtMu99NFITKMjExjXwFLn4yYvZVUdhSgM0T1\ngFus+vsDjCR7zPoAvM6tiYMq4XvHCfSd0E/DoI4WUs663mSVla+GokPmzDzXt2EP\nA+HHwBCum6UJNK2g+95hyWaAfBhc4674lKxtu2mBAoGAHIQbYY/7sW8/wKBZX9fG\niznI0GgAl8LAPjq9uB7svYuHW7FBfsbmACGYFdXm0Vx6jSVwX58Sa4MYceVm9vMp\nbOMY/TTaLdUWa4HRMZ5QcBvgw/vzLIx6wmXfm7lVx09B49aKRn5eD5WywQy53wof\njdlp+ySCsfGorgjiB5QO78w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lightup@smartcrop-api.iam.gserviceaccount.com",
+  "client_id": "117085136984893642047",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lightup%40smartcrop-api.iam.gserviceaccount.com"
+}
